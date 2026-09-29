@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.bcsd_android_2025_1"
+    namespace = "com.example.bcsd_android_2026_2"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.bcsd_android_2025_1"
+        applicationId = "com.example.bcsd_android_2026_2"
         minSdk = 26
         targetSdk = 34
         versionCode = 1

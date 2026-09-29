@@ -1,5 +1,5 @@
-# BCSD_ANDROID_2025-1
-BCSD Lab Android 트랙 25-1차 교육 레포지토리
+# BCSD_ANDROID_2026-2
+BCSD Lab Android 트랙 26-2차 교육 레포지토리
 ## 과제 제출 방법
 1. 본 레포지토리를 포크합니다.
 2. 각 주차 별 브랜치를 만듭니다. (예시: assignment03))
